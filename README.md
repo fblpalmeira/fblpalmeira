@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/fblpalmeira)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=whit" />](https://www.instagram.com/fblpalmeira/)
+[<img align="left" alt="twitch" src="https://img.shields.io/badge/twitch-%231DA1F2.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/fblpalmeira)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.instagram.com/fblpalmeira/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/francescapalmeira)
 <br>
 <br>
