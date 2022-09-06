@@ -1,19 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**fblpalmeira/fblpalmeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on conservation conflicts, ecological modeling and data visualization 
+<br>
+<br>
 
 ## Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/fblpalmeira)
@@ -23,7 +12,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/user/fblpalmeira)
 [<img align="left" alt="orcid" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0000-0002-7597-1157)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:francesca@alumni.usp.br)
-
 <br>
 <br>
 
