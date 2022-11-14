@@ -4,6 +4,11 @@
 <br>
 <br>
 
+## Languages
+[<img align="left" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />](https://www.r-project.org/)
+<br>
+<br>
+
 ## Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/fblpalmeira)
 [<img align="left" alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/fblpalmeira)
@@ -14,6 +19,3 @@
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:francesca@alumni.usp.br)
 <br>
 <br>
-
-## Languages
-[<img align="left" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />](https://www.r-project.org/)
