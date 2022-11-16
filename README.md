@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on conservation conflicts, ecological modeling and data visualization 
+- 🔭 I’m currently working on conservation conflicts, ecological modeling and data visualization. 
 <br>
 <br>
 
