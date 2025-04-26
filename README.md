@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on conservation conflicts, ecological modeling and data visualization. I'm also developing a package called [pcir - Potential Conflict Index in R](https://fblpalmeira.github.io/pcir/).
+- 🔭 I’m currently working on conservation conflicts, ecological modeling and data visualization. I'm also developing a package called [pcir - Potential for Conflict Index in R](https://fblpalmeira.github.io/pcir/).
 <br>
 <br>
 
